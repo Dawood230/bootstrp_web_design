@@ -1,0 +1,28 @@
+.color{
+    background-color: #abd037 !important;
+}
+.width_of_img{
+    width: 100%;
+    height: auto;
+}
+.margin_top_for_nav{
+    margin-top: -8px;
+}
+.for_sgin_in{
+    text-decoration: none;
+    color: white;
+}
+.card_imge{
+    width:180px;
+    height: 180px;
+    
+}
+.box:hover {
+    box-shadow: 8px 8px 12px rgba(36, 36, 36, 0.5);
+}
+
+@media (max-width:784px){
+    .card_width{
+        width: 100%px;
+    }
+}
